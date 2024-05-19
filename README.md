@@ -1,0 +1,3 @@
+# Kian Mohajeri
+I am a passionate and dedicated professional with a unique background that bridges the fields of pharmacy and data science. I hold a Doctor of Pharmacy (Pharm.D) degree and have extensive experience in both community pharmacy and pharmaceutical data analysis.
+During my six years as a community pharmacist, I developed a deep understanding of patient care, medication management, and healthcare systems. However, my curiosity and desire for innovation led me to the field of data science upon graduation. This transition allowed me to leverage my pharmaceutical knowledge in new and impactful ways, analyzing data to uncover insights that drive healthcare advancements.
