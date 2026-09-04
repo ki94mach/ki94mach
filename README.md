@@ -1,38 +1,44 @@
 # Kian Mohajeri
 
-**Data Engineering Working Student | Python, SQL, ETL & API Workflows**
+**Applied Data & AI Professional | Analytics, Automation & Healthcare Technology**
 
 Berlin, Germany
 
-I am a data and software professional with a **Doctor of Pharmacy (Pharm.D.)** background and an ongoing **M.A. in Data Analytics and Artificial Intelligence**. I build reliable data pipelines, backend services, analytical systems, and API-driven automations—especially for healthcare, pharmaceutical, and commercial data.
+I am a data and technology professional with a **Doctor of Pharmacy (Pharm.D.)** background and an ongoing **M.A. in Data Analytics and Artificial Intelligence**. My work brings together healthcare knowledge, business understanding, analytics, software development, and applied AI.
 
-My long-term direction is **Data Engineering**: developing maintainable data systems that transform raw operational data into validated, accessible, and decision-ready information. I am currently open to working-student opportunities in Germany in **Data Engineering, Analytics Engineering, Data/BI, and healthtech or pharmaceutical analytics**.
+Since 2022, I have worked with pharmaceutical and commercial data—building reporting workflows, analytical tools, forecasting systems, data pipelines, and operational applications for Sales, Market Access, and management teams.
 
-## Professional focus
+## My direction
 
-- Building reusable Python and SQL data pipelines
-- Designing ETL/ELT workflows, staging layers, and point-in-time snapshots
-- Improving data quality through validation and reconciliation
-- Integrating REST APIs and automating recurring data processes
-- Translating healthcare and commercial requirements into practical data products
+My goal is to become a multidisciplinary **data and AI problem-solver** who can understand a real healthcare or business challenge and build the solution from end to end: collect and structure the data, analyze it, model future outcomes, automate the workflow, and turn the result into a practical product people can use.
 
-## Selected projects
+I am particularly interested in work where **data, product, operations, and healthcare** meet. For working-student and early-career opportunities in Germany, I am well aligned with:
 
-| Project | What it demonstrates |
+- Data and business analytics
+- Applied data science and forecasting
+- AI-enabled workflow automation
+- Product and operations analytics
+- Healthcare, healthtech, and pharmaceutical data products
+
+## Projects that represent my work
+
+| Project | Problem and contribution |
 | --- | --- |
-| [DistCore](https://github.com/ki94mach/DistCore) | Python and SQL Server pipelines that structure warehouse, sales, target, and delivery data into reproducible snapshots and support distributor allocation. |
-| [InsuranceScraper](https://github.com/ki94mach/InsuranceScraper) | Automated external-data collection, cleaning, history management, and Google Sheets reporting for pharmaceutical product workflows. |
-| [Minos](https://github.com/ki94mach/Minos) | Healthcare data platform using Flask, MongoDB, REST APIs, Redis, Docker, and a React interface for patient-pathway modeling. |
-| [SpeakToDo](https://github.com/ki94mach/SpeakToDo) | API-driven automation that converts Telegram voice messages into reviewed Monday.com tasks using Whisper and GPT-4. |
-| [PharmProd Forecast](https://github.com/ki94mach/PharmProd_Forecast) | SQL Server-backed pharmaceutical sales forecasting with ARIMA, ETS, Prophet, and LSTM model comparison. |
+| [DistCore](https://github.com/ki94mach/DistCore) | An operations platform that combines pharmaceutical warehouse, sales, target, and delivery data with reproducible snapshots and allocation optimization. |
+| [Minos](https://github.com/ki94mach/Minos) | A healthcare application for modeling patient populations and care pathways using Flask, MongoDB, REST APIs, Redis, Docker, and React. |
+| [PharmProd Forecast](https://github.com/ki94mach/PharmProd_Forecast) | A pharmaceutical sales-forecasting workflow that reads from SQL Server and compares ARIMA, ETS, Prophet, and LSTM models. |
+| [SpeakToDo](https://github.com/ki94mach/SpeakToDo) | An AI workflow that converts Telegram voice messages into structured, reviewable Monday.com tasks using Whisper and GPT-4. |
+| [InsuranceScraper](https://github.com/ki94mach/InsuranceScraper) | An automated external-data workflow for collection, cleaning, history management, analysis, and Google Sheets reporting. |
+
+Together, these projects reflect how I like to work: start with a genuine operational or healthcare need, combine the right analytical and technical methods, and deliver something usable rather than stopping at an experiment.
 
 ## Technical toolkit
 
-- **Programming and processing:** Python, SQL, pandas, NumPy
-- **Pipelines and storage:** ETL/ELT, batch processing, SQL Server, MongoDB, staging and snapshot tables
-- **Backend and APIs:** Flask, REST APIs, Pydantic, MongoEngine, Redis, Google Sheets API
-- **Automation and delivery:** Selenium, BeautifulSoup, Docker, CI/CD, Git, GitHub, GitLab, Linux
-- **Analytics:** Power BI, Power Query, Excel, KPI reporting
+- **Analytics and BI:** SQL, Power BI, Power Query, Excel, KPI reporting, exploratory analysis
+- **Data science:** Python, pandas, NumPy, time-series forecasting, statistical and machine-learning workflows
+- **Data systems and backend:** SQL Server, MongoDB, Flask, REST APIs, MongoEngine, Redis
+- **Automation and delivery:** API integrations, Selenium, BeautifulSoup, Google Sheets API, Docker, CI/CD, Git, Linux
+- **Domain and collaboration:** pharmaceutical commercial data, Market Access, patient pathways, requirements gathering, stakeholder reporting
 
 ## Education
 
